@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @WafiChoudhury
-- 👀 I’m interested in GANs, AI Art and everything ML
-- 🌱 I’m currently learning GANS
-- 💞️ I’m looking to collaborate on anything cool
-- 📫 How to reach me ...
+- 👀 I work in ML/consumer
 
 <!---
 WafiChoudhury/WafiChoudhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
